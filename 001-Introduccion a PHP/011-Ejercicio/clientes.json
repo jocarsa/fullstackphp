@@ -1,0 +1,20 @@
+[
+    {
+        "clave": "a3beb8294f00b737a1d09c477ed98d690db6b220",
+        "nombre": "aaa",
+        "apellidos": "aaa",
+        "email": "aaa",
+        "telefono": "aa",
+        "direccion": "aaa",
+        "pais": "aaa"
+    },
+    {
+        "clave": "8bd843c4944534a6bde6a4af475a575ecd6091c6",
+        "nombre": "yyy",
+        "apellidos": "yyy",
+        "email": "yyy",
+        "telefono": "yyy",
+        "direccion": "yyy",
+        "pais": "yyyy"
+    }
+]

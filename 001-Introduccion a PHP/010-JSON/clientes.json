@@ -1,0 +1,17 @@
+[
+    {
+        "nombre":"Jose Vicente",
+        "apellidos":"Carratalá Sanchis",
+        "telefonos":[5342534523,53253245,3453454,52354345]
+    },
+    {
+        "nombre":"Juan",
+        "apellidos":"Lopez Martinez",
+        "telefonos":[5342534523,53253245,3453454,52354345]
+    },
+    {
+        "nombre":"Jorge",
+        "apellidos":"Garcia Sanchez",
+        "telefonos":[5342534523,53253245,3453454,52354345]
+    }
+]

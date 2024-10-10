@@ -6,4 +6,5 @@
     
     echo dimeHola("Jose Vicente");
     echo dimeHola("Juan");
+
 ?>

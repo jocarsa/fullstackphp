@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Jose Vicente",
+        "email": "josevicente@prueba.com",
+        "telefonos": [
+            5234535,
+            53253454
+        ]
+    },
+    {
+        "nombre": "Juan",
+        "email": "juan@prueba.com",
+        "telefonos": [
+            354523543,
+            23453543
+        ]
+    },
+    {
+        "nombre": "Jorge",
+        "email": "jorge@prueba.com",
+        "telefonos": [
+            2534535,
+            325434534
+        ]
+    }
+]
