@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Factura</title>
+        <meta charset="utf-8">
+        <style>
+            body{
+                background:rgb(220,220,220);
+            }
+            header,main,footer{
+                width:800px;
+                margin:auto;
+                background:white;
+                padding:20px;
+                font-family: sans-serif;
+            }
+            header section{
+                width:49%;
+                display:inline-block;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <section id="emisor">
+                <h1>Razon Social</h1>
+                <h2>Direccion</h2>
+                <h3>CP y Población</h3>
+                <h4>Identificacion fiscal</h4>
+            </section>
+            <section id="receptor">
+                <h1>Razon Social</h1>
+                <h2>Direccion</h2>
+                <h3>CP y Población</h3>
+                <h4>Identificacion fiscal</h4>
+            </section>
+            <section id="fecha">
+                Fecha de la factura
+            </section>
+            <section id="numerofactura">
+                Número de la factura
+            </section>
+        </header>
+        <main>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Cantidad</th>
+                        <th>Producto</th>
+                        <th>Precio</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Producto 1</td>
+                        <td>4.30</td>
+                        <td>4.30</td>
+                    </tr>
+                </tbody>
+            </table>
+        </main>
+        <footer>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Cantidad</th>
+                        <th>Producto</th>
+                        <th>Precio</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Producto 1</td>
+                        <td>4.30</td>
+                        <td>4.30</td>
+                    </tr>
+                </tbody>
+            </table>
+            <section id="comentarios">
+                Esto es un comentario
+            </section>
+        </footer>
+    </body>
+</html>

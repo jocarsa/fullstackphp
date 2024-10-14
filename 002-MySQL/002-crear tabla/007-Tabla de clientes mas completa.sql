@@ -1,0 +1,1 @@
+CREATE TABLE `negocio`.`clientes` (`Identificador` INT(10) NOT NULL AUTO_INCREMENT , `razonsocial` VARCHAR(100) NULL , `direccion` TEXT NULL , `cp` VARCHAR(50) NULL , `poblacion` VARCHAR(100) NULL , `identificacionfiscal` VARCHAR(100) NULL ,`email` VARCHAR(100) NULL, `telefono` VARCHAR(100) NULL,PRIMARY KEY (`Identificador`)) ENGINE = InnoDB;

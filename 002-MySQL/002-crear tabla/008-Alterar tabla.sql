@@ -1,0 +1,1 @@
+ALTER TABLE `pedidos` CHANGE `clientes_nombre` `clientes_razonsocial` INT(10) NULL DEFAULT NULL

@@ -1,0 +1,22 @@
+INSERT INTO `negocio`.`clientes` (`razonsocial`, `direccion`, `cp`, `poblacion`, `identificacionfiscal`, `email`, `telefono`) 
+VALUES
+('Comercial Martínez S.A.', 'Calle Mayor 123', '28013', 'Madrid', 'B12345678', 'info@martinez.com', '912345678'),
+('Distribuciones Pérez S.L.', 'Avenida Andalucía 45', '41001', 'Sevilla', 'B87654321', 'contacto@perez.com', '954123456'),
+('Electrodomésticos López S.A.', 'Calle Sol 98', '29010', 'Málaga', 'A12398745', 'ventas@lopez.com', '952987654'),
+('Hermanos García S.L.', 'Avenida del Parque 12', '03002', 'Alicante', 'B11223344', 'info@garcia.com', '965456789'),
+('Inversiones Rodríguez S.A.', 'Calle de la Paz 5', '46001', 'Valencia', 'A55667788', 'rodriguez@inversiones.com', '961234567'),
+('Construcciones Torres S.L.', 'Calle Luna 17', '50004', 'Zaragoza', 'B33445566', 'torres@construcciones.com', '976654321'),
+('Muebles Fernández S.A.', 'Calle Jardines 34', '08002', 'Barcelona', 'A11225533', 'fernandez@muebles.com', '934567890'),
+('Automóviles Sánchez S.L.', 'Calle Comercio 88', '41002', 'Sevilla', 'B77889900', 'info@sanchez.com', '954987654'),
+('Tecnología Rubio S.A.', 'Calle del Sol 22', '28004', 'Madrid', 'A99008877', 'rubio@tech.com', '915678901'),
+('Distribuidora Hernández S.L.', 'Calle Estrella 45', '18002', 'Granada', 'B44556677', 'hernandez@distribuidora.com', '958123987'),
+('Papelería Mendoza S.A.', 'Calle del Aire 16', '33001', 'Oviedo', 'A22334455', 'mendoza@papeleria.com', '985654321'),
+('Almacenes Ortega S.L.', 'Avenida Libertad 67', '39010', 'Santander', 'B88990011', 'contacto@ortega.com', '942345678'),
+('Calzados Gutiérrez S.A.', 'Calle Florida 25', '20001', 'San Sebastián', 'A99887766', 'gutierrez@calzados.com', '943456789'),
+('Textiles Vargas S.L.', 'Calle Alameda 75', '47001', 'Valladolid', 'B55667788', 'vargas@textiles.com', '983654321'),
+('Ferretería Ramos S.A.', 'Calle Castelar 99', '14001', 'Córdoba', 'A33447755', 'ramos@ferreteria.com', '957456789'),
+('Transportes Castro S.L.', 'Avenida del Río 43', '35002', 'Las Palmas', 'B99887766', 'castro@transportes.com', '928123456'),
+('Frutas y Verduras González S.A.', 'Calle Feria 12', '29012', 'Málaga', 'A12344321', 'gonzalez@frutasyverduras.com', '952765432'),
+('Supermercados Moreno S.L.', 'Calle Central 81', '15001', 'A Coruña', 'B23456789', 'moreno@supermercados.com', '981234567'),
+('Imprenta Gómez S.A.', 'Calle Azul 29', '50002', 'Zaragoza', 'A45678901', 'gomez@imprenta.com', '976123987'),
+('Cafetería Navarro S.L.', 'Calle Blanca 14', '08010', 'Barcelona', 'B32109876', 'navarro@cafeteria.com', '934123456');
