@@ -156,7 +156,17 @@
             $resultado = mysqli_query($this->conexion, $peticion);                  // Ejecuto la peticion contra la base de datos
             echo '{"resultado":"'.$peticion.'"}';                                   // Devuelvo un json
         }
-        
+        public function listadoColumnas($tabla){ //////////////////////////////// MÉTODO DE SOLO DAME LAS COLUMNAS
+            $peticion = "
+                SHOW COLUMNS FROM ".$tabla.";
+            ";                                                                  // Ahora quiero saber qué columnas tiene la tabla
+            $resultado = mysqli_query($this->conexion, $peticion);              // Lanzo la petición contra la base de datos
+            $columnas = [];                                                     // Creo un arreglo vacío
+            while($fila = mysqli_fetch_assoc($resultado)){                      // Para cada uno de los resultados
+                $columnas[] = $fila;                                            // Lo añado al array
+            }
+            return json_encode($columnas);
+        }
         /*/////////////////////////////////// MÉTODOS DE LA CLASE ///////////////////////////////////////////*/
     }
 

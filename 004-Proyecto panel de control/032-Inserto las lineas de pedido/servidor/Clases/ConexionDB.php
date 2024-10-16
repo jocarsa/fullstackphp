@@ -143,7 +143,13 @@
             $valores = implode("', '", array_map([$this->conexion, 'real_escape_string'], array_values($datos))); // Tomo los datos en array y las convierto a string con separador
             $peticion = "INSERT INTO ".$tabla." (".$columnas.") VALUES ('".$valores."')";   // Creo una peticion
             $resultado = mysqli_query($this->conexion, $peticion);                  // Ejecuto la peticion contra el servidor
-            echo '{"resultado":"ok"}';                                              // Devuelvo un json de ok
+            
+            $peticion = "SELECT Identificador FROM ".$tabla." ORDER BY Identificador DESC LIMIT 1";
+            $resultado = mysqli_query($this->conexion, $peticion);
+            while($fila = mysqli_fetch_assoc($resultado)){                          // Resultado a resultado 
+                $id = $fila['Identificador'];                                                  // lo meto en el array
+            }
+            echo '{"resultado":"ok","identificador":'.$id.'}';                                              // Devuelvo un json de ok
         }
 
         public function actualizar($tabla,$datos){//////////////////////////////// MÉTODO DE ACTUALIZAR UN DATO DE UNA TABLA
@@ -156,7 +162,17 @@
             $resultado = mysqli_query($this->conexion, $peticion);                  // Ejecuto la peticion contra la base de datos
             echo '{"resultado":"'.$peticion.'"}';                                   // Devuelvo un json
         }
-        
+        public function listadoColumnas($tabla){ //////////////////////////////// MÉTODO DE SOLO DAME LAS COLUMNAS
+            $peticion = "
+                SHOW COLUMNS FROM ".$tabla.";
+            ";                                                                  // Ahora quiero saber qué columnas tiene la tabla
+            $resultado = mysqli_query($this->conexion, $peticion);              // Lanzo la petición contra la base de datos
+            $columnas = [];                                                     // Creo un arreglo vacío
+            while($fila = mysqli_fetch_assoc($resultado)){                      // Para cada uno de los resultados
+                $columnas[] = $fila;                                            // Lo añado al array
+            }
+            return json_encode($columnas);
+        }
         /*/////////////////////////////////// MÉTODOS DE LA CLASE ///////////////////////////////////////////*/
     }
 

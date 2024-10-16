@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>
+            La web de Jose Vicente
+        </title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="estilo.css">
+        <script src="comportamiento.js"></script>
+    </head>
+    <body>
+        <header>
+            <h1>
+                La web de Jose Vicente
+            </h1>
+            <h2>
+                Programador, diseñador y formador
+            </h2>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#inicio">
+                            Inicio
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#sobremi">
+                            Sobre mi
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#cursos">
+                            Cursos
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#blog">
+                            Blog
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#contacto">
+                            Contacto
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="inicio">
+                <h3>Inicio</h3>
+                <img src="imagenes/pancarta.jpg" alt="Pancarta">
+            </section>
+            <section id="sobremi">
+                <h3>Sobre mi</h3>
+                <div class="flex2">
+                    <img src="imagenes/josevicentecarratala.jpg" alt="Jose Vicente Carratalá">
+                    <p>Experto en programación y gráficos 3d. Profesor en formación tanto presencial como online. CEO y Fundador en JOCARSA. Desarrollo de Proyectos de Robótica, Infografía CGI, Visualización 3D Interactiva en Realidad Virtual operando el estado del arte de la tecnología.</p>
+                </div>
+            </section>
+            <section id="cursos">
+                <h3>Cursos</h3>
+                <p>A continuación te indico un listado de mis próximos cursos</p>
+                <table border=1 width=100%>
+                    <thead>
+                        <tr>
+                            <th>Fecha</th>
+                            <th>Curso</th>
+                            <th>Duración</th>
+                            <th>Lugar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>2024-09-15</td>
+                            <td>Curso de HTML</td>
+                            <td>25h</td>
+                            <td>Centro 1</td>
+                        </tr>
+                        <tr>
+                            <td>2024-09-25</td>
+                            <td>Curso de PHP</td>
+                            <td>25h</td>
+                            <td>Centro 1</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+            <section id="blog">
+                <h3>Blog</h3>
+                
+               
+            </section>
+            <section id="contacto">
+                <h3>Contacto</h3>
+                <div class="flex2">
+                    <form>
+                        <label for="nombre">Introduce tu nombre</label><br>
+                        <input type="text" id="nombre"><br>
+                        <label for="correo">Introduce tu correo electrónico</label><br>
+                        <input type="email" id="correo"><br>
+                        <label for="mensaje">Introduce tu mensaje</label><br>
+                        <textarea id="mensaje"></textarea><br>
+                        <input type="submit">
+                    </form>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12319.796003572808!2d-0.34030976715556477!3d39.4704837066939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1726483576800!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </section>
+        </main>
+        <footer class="flex2">
+            <div id="paginas">
+                <ul>
+                    <li>
+                        <a href="privacidad.html">
+                            Política de privacidad
+                        </a>
+                    </li>
+                    <li>
+                        <a href="terminos.html">
+                            Términos de uso
+                        </a>
+                    </li>
+                    <li>
+                        <a href="lopd.html">
+                            Protección de datos
+                        </a>
+                    </li>
+                    <li>
+                        <a href="cookies.html">
+                            Política de cookies
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div id="redessociales">
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/carratala">
+                            Facebook
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/jvcarratala/">
+                            Instagram
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://es.linkedin.com/in/jvcarratala">
+                            Linkedin
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/jocarsa">
+                            Github
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+        <template id="plantilla_articulo">
+            <article>
+                <img src="imagenes/josevicentecarratala.jpg" alt="Jose Vicente Carratalá">
+                <h4>Título de la entrada</h4>
+                <time>2024-09-16</time>
+                <p>Introduce aquí el texto de la entrada</p>
+            </article>
+        </template>
+    </body>
+</html>
