@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0444209"
-     inkscape:cx="461.49977"
-     inkscape:cy="407.88154"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:cx="450.96761"
+     inkscape:cy="429.42457"
+     inkscape:window-width="1350"
+     inkscape:window-height="1032"
+     inkscape:window-x="228"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
@@ -62,48 +62,10 @@
      id="layer1">
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect7544"
-       width="67.174309"
-       height="24.541012"
-       x="199.55247"
-       y="13.613997"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="202.77995"
-       y="26.516733"
-       id="text7548"><tspan
-         sodipodi:role="line"
-         id="tspan7546"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="202.77995"
-         y="26.516733">css</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect7550"
-       width="67.174309"
-       height="24.541012"
-       x="199.55247"
-       y="32.422798"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="202.77995"
-       y="45.325542"
-       id="text7554"><tspan
-         sodipodi:role="line"
-         id="tspan7552"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="202.77995"
-         y="45.325542">html</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
        id="rect1854"
-       width="67.174309"
-       height="24.541012"
-       x="75.242142"
+       width="150.2666"
+       height="24.541016"
+       x="42.055889"
        y="134.52722"
        ry="4.044281" />
     <text
@@ -117,128 +79,71 @@
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
          x="78.46962"
          y="147.42996">php</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect3741"
-       width="67.174309"
-       height="24.541012"
-       x="7.8563175"
-       y="135.03387"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="11.083796"
-       y="147.93661"
-       id="text3745"><tspan
-         sodipodi:role="line"
-         id="tspan3743"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="11.083796"
-         y="147.93661">python</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect3747"
-       width="67.174309"
-       height="24.541012"
-       x="142.62799"
-       y="134.52722"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="145.85547"
-       y="147.42996"
-       id="text3751"><tspan
-         sodipodi:role="line"
-         id="tspan3749"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="145.85547"
-         y="147.42996">nodejs</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect3753"
-       width="67.174309"
-       height="24.541012"
-       x="209.62315"
-       y="134.52722"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="212.85063"
-       y="147.42996"
-       id="text3757"><tspan
-         sodipodi:role="line"
-         id="tspan3755"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="212.85063"
-         y="147.42996">Java</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1)"
-       d="M 115.36067,133.72281 V 99.687831"
+       d="M 63.174653,133.97614 V 99.941161"
        id="path2993" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1)"
-       d="M 107.65802,98.880581 V 132.91556"
+       d="M 55.472003,99.133911 V 133.16889"
        id="path2032" />
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
        id="rect1680"
        width="67.174309"
        height="24.541012"
-       x="78.817848"
-       y="39.050667"
+       x="26.631832"
+       y="39.303997"
        ry="4.044281" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="82.045326"
-       y="51.953403"
+       x="29.85931"
+       y="52.206734"
        id="text1684"><tspan
          sodipodi:role="line"
          id="tspan1682"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="82.045326"
-         y="51.953403">css</tspan></text>
+         x="29.85931"
+         y="52.206734">css</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
        id="rect1514"
        width="67.174309"
        height="24.541012"
-       x="78.817848"
-       y="57.85947"
+       x="26.631832"
+       y="58.112801"
        ry="4.044281" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="82.045326"
-       y="70.762215"
+       x="29.85931"
+       y="71.015541"
        id="text1570"><tspan
          sodipodi:role="line"
          id="tspan1568"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="82.045326"
-         y="70.762215">html</tspan></text>
+         x="29.85931"
+         y="71.015541">html</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
        id="rect1788"
        width="67.174309"
        height="24.541012"
-       x="78.817848"
-       y="73.981308"
+       x="26.631832"
+       y="74.234634"
        ry="4.044281" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="82.045326"
-       y="86.884048"
+       x="29.85931"
+       y="87.137375"
        id="text1792"><tspan
          sodipodi:role="line"
          id="tspan1790"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="82.045326"
-         y="86.884048">js</tspan></text>
+         x="29.85931"
+         y="87.137375">js</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.766, 1.766;stroke-dashoffset:0;stroke-opacity:1"
        d="M 19.620093,115.66387 H 215.19098"
@@ -246,14 +151,14 @@
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="83.565308"
-       y="31.180338"
+       x="31.379292"
+       y="31.433668"
        id="text1852"><tspan
          sodipodi:role="line"
          id="tspan1850"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="83.565308"
-         y="31.180338">frontend</tspan></text>
+         x="31.379292"
+         y="31.433668">frontend</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
        id="rect1860"
@@ -287,139 +192,118 @@
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1922"
-       cx="111.64227"
-       cy="116.48719"
+       cx="59.456257"
+       cy="116.74052"
        r="8.0432329" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:5.83328px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.2446;stroke-linecap:round;stroke-linejoin:round"
-       x="104.49257"
-       y="117.85867"
+       x="52.306553"
+       y="118.112"
        id="text1926"><tspan
          sodipodi:role="line"
          id="tspan1924"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.2446"
-         x="104.49257"
-         y="117.85867">json</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect3759"
-       width="67.174309"
-       height="24.541012"
-       x="9.5316296"
-       y="167.01057"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="12.759108"
-       y="179.91331"
-       id="text3763"><tspan
-         sodipodi:role="line"
-         id="tspan3761"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="12.759108"
-         y="179.91331">SQLite</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect3812"
-       width="67.174309"
-       height="24.541012"
-       x="144.55659"
-       y="167.01057"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="147.78409"
-       y="179.91331"
-       id="text3816"><tspan
-         sodipodi:role="line"
-         id="tspan3814"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="147.78409"
-         y="179.91331">MongoDB</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect3818"
-       width="67.174309"
-       height="24.541012"
-       x="211.43576"
-       y="167.01057"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="214.66324"
-       y="179.91331"
-       id="text3822"><tspan
-         sodipodi:role="line"
-         id="tspan3820"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="214.66324"
-         y="179.91331">JSON</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect10516"
-       width="67.174309"
-       height="24.541012"
-       x="199.40302"
-       y="47.381641"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="202.63049"
-       y="60.284382"
-       id="text10520"><tspan
-         sodipodi:role="line"
-         id="tspan10518"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="202.63049"
-         y="60.284382">js</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect7532"
-       width="67.174309"
-       height="24.541012"
-       x="199.91072"
-       y="64.058716"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="203.1382"
-       y="76.961456"
-       id="text7536"><tspan
-         sodipodi:role="line"
-         id="tspan7534"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="203.1382"
-         y="76.961456">php</tspan></text>
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
-       id="rect7538"
-       width="67.174309"
-       height="24.541012"
-       x="199.79472"
-       y="80.778503"
-       ry="4.044281" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
-       x="203.0222"
-       y="93.681244"
-       id="text7542"><tspan
-         sodipodi:role="line"
-         id="tspan7540"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
-         x="203.0222"
-         y="93.681244">MySQL</tspan></text>
+         x="52.306553"
+         y="118.112">json</tspan></text>
     <circle
        style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
        id="path972"
        cx="112.47861"
        cy="146.17151"
        r="4.306613" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 164.25339,133.97614 V 99.941161"
+       id="path973" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 156.55074,99.133911 V 133.16889"
+       id="path975" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
+       id="rect977"
+       width="67.174309"
+       height="24.541012"
+       x="127.71057"
+       y="39.303997"
+       ry="4.044281" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
+       x="130.93805"
+       y="52.206734"
+       id="text981"><tspan
+         sodipodi:role="line"
+         id="tspan979"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
+         x="130.93805"
+         y="52.206734">css</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
+       id="rect983"
+       width="67.174309"
+       height="24.541012"
+       x="127.71057"
+       y="58.112801"
+       ry="4.044281" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
+       x="130.93805"
+       y="71.015541"
+       id="text987"><tspan
+         sodipodi:role="line"
+         id="tspan985"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
+         x="130.93805"
+         y="71.015541">html</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round"
+       id="rect989"
+       width="67.174309"
+       height="24.541012"
+       x="127.71057"
+       y="74.234634"
+       ry="4.044281" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
+       x="130.93805"
+       y="87.137375"
+       id="text993"><tspan
+         sodipodi:role="line"
+         id="tspan991"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
+         x="130.93805"
+         y="87.137375">js</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.6697px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094;stroke-linecap:round;stroke-linejoin:round"
+       x="132.45804"
+       y="31.433668"
+       id="text997"><tspan
+         sodipodi:role="line"
+         id="tspan995"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.49094"
+         x="132.45804"
+         y="31.433668">frontend</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.766;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle999"
+       cx="160.535"
+       cy="116.74052"
+       r="8.0432329" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.83328px;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.2446;stroke-linecap:round;stroke-linejoin:round"
+       x="153.3853"
+       y="118.112"
+       id="text1003"><tspan
+         sodipodi:role="line"
+         id="tspan1001"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.2446"
+         x="153.3853"
+         y="118.112">json</tspan></text>
   </g>
 </svg>

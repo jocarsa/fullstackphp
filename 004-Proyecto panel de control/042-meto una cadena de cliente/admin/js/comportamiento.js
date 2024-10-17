@@ -93,7 +93,7 @@ window.onload = function(){                                     // Solo ejecuto 
                 contenedor.appendChild(texto)                       // Al contenedor le añado el texto
                 if(clave.includes("_")){
                     let seleccionador = document.createElement("select")
-                    seleccionador.setAttribute("name",clave)
+                    seleccionador.setAttribute("placeholder",clave)
                     camposenviar.push(seleccionador)
                     contenedor.appendChild(seleccionador)
                     let tabladestino = clave.split("_")[0]
@@ -136,6 +136,7 @@ window.onload = function(){                                     // Solo ejecuto 
             botonenviar.textContent = "Enviar"                      // Le pongo texto al boton
             botonenviar.onclick = function(){                       // Cuando sobre el boton de enviar haga click¡      
                 let datosenviar = {}                                // Creo un contenedor vacio
+                console.log(camposenviar)
                 camposenviar.forEach(function(elemento){            // Para cada uno de los campos
                     datosenviar[elemento.getAttribute("placeholder")] = elemento.value  // Añado el contenido del campo al contenedor
                 })

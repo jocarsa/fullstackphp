@@ -1,0 +1,20 @@
+[
+    {
+        "titulo":"Articulo1",
+        "contenido":"Este es el contenido del articulo 1",
+        "fecha":"2024-09-24",
+        "imagen":"articulo1.jpg"
+    },
+    {
+        "titulo":"Articulo2",
+        "contenido":"Este es el contenido del articulo 2",
+        "fecha":"2024-09-25",
+        "imagen":"articulo2.jpg"
+    },
+    {
+        "titulo":"Articulo3",
+        "contenido":"Este es el contenido del articulo 3",
+        "fecha":"2024-09-26",
+        "imagen":"articulo3.jpg"
+    }
+]
